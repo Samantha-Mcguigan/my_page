@@ -1,0 +1,16 @@
+html{
+    background-color: #FAEBD7;
+    font-family: serif;
+    /*font-size: 18px !important;*/
+}
+body{
+    color: #000000;
+    /*font-size: 18px !important;*/
+}
+h1{
+    color: #000000;
+    font-size: 60px !important;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
