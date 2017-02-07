@@ -1,11 +1,9 @@
 html{
-    background-color: #FAEBD7;
-    font-family: serif;
-    /*font-size: 18px !important;*/
+    background-color: #928D90;
 }
 body{
-    color: #000000;
-    /*font-size: 18px !important;*/
+    margin: 0;
+    padding: 0
 }
 h1{
     color: #000000;
@@ -13,4 +11,60 @@ h1{
     text-align: center;
     margin-top: 0px;
     margin-bottom: 2px;
+}
+div#links{
+    color: #750615;
+    font-size:30px !important; 
+    text-align:center
+}
+img#home{
+    border: 5px solid #750615;
+    height: 400px;
+    width: 25%;
+    margin: auto;
+    margin-left:40px;
+    float:left
+}
+img#abroad1{
+    border: 5px solid #750615;
+    height: 300px;
+    width: 200px;
+    margin: 25px;
+}
+img#abroad2{
+    border: 5px solid #750615;
+    height: 300px;
+    width: 200px;
+    margin: 25px;
+}img#abroad3{
+    border: 5px solid #750615;
+    height: 300px;
+    width: 200px;
+    margin: 25px;
+}
+div#about{
+    width: 50%;
+    padding: 20px;
+    border: 5px solid #750615;
+    margin: auto;
+    margin-right:40px;
+    float:right;
+    text-align: left;
+    font-size: 18px 
+}
+div#mytrip{
+    width: 500px;
+    padding: 20px;
+    border: 5px solid #750615;
+    margin: 25px;
+    font-size: 18px 
+}
+a:link {
+    color: #FFFFFF;
+}
+a:visited {
+    color:#000000;
+}
+a:hover {
+    color: #750615;
 }
